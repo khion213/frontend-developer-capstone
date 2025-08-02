@@ -70,7 +70,7 @@ little-lemon-booking/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/little-lemon-booking.git
+git clone https://github.com/khion213/frontend-developer-capstone.git 
 ```
 
 2. Navigate to the project folder:
